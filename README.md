@@ -1,7 +1,7 @@
 # test-tasks
 tets tasks
 
-Algorythm that do the following:
+Create an algorythm that does the following:
 1. Function accepts random text as a string and in each word of the string finds first symbol that is unique for this word and this letter soen't appear again in that word.
 It should return a string.
 2. Next from that string of the first unique letters in each word it finds first unique letter in this new string and returns it.
