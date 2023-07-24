@@ -8,8 +8,10 @@ It should return a string.
 
 For this example string it should return letter "m" :
 
-The Tao gave birth to machine language.  Machine language gave birth \n
-to the assembler. \n
+The Tao gave birth to machine language.  Machine language gave birth  
+
+to the assembler.  
+
 The assembler gave birth to the compiler.  Now there are ten thousand
 languages.
 Each language has its purpose, however humble.  Each language
