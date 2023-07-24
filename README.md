@@ -1,5 +1,5 @@
-# test-tasks
-tets tasks
+# test-task
+test task
 
 Create an algorythm that does the following:
 1. Function accepts random text as a string and in each word of the string finds first symbol that is unique for this word and this letter doen't appear again in that word.
